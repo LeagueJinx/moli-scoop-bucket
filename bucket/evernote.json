@@ -1,0 +1,23 @@
+{
+    "homepage": "https://www.yinxiang.com/",
+    "description": "印象笔记",
+    "version": "6.21.39.2582",
+    "license": "unknown",
+    "url": "https://cdn-dl.yinxiang.com/YXWin6/public/Evernote_6.21.39.2582.exe#/dl.7z",
+    "hash": "916AAA8E9BC557561B278AB2A27838A434B58420D3353B2BD27B584201DB31AE",
+    "extract_dir": "",
+    "bin": "YoudaoNote.exe",
+    "notes": "备注",    
+    "shortcuts": [
+        [
+            "YoudaoNote.exe",
+            "YNote",
+            "有道云笔记"
+        ]
+    ],
+    "checkver": "<span class=\"ynote-version\">V([\\d.]+)</span>",
+    "autoupdate": {
+        "url": "http://download.ydstatic.com/notewebsite/downloads/YNote.exe#/dl.7z"
+    }
+
+}
